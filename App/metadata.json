@@ -1,0 +1,12 @@
+
+{
+  "name": "ParkSense - Smart FasTag Parking",
+  "description": "An advanced RFID-based parking management system with FasTag integration, real-time slot reservation, and AI-guided navigation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
